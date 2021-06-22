@@ -3,16 +3,25 @@
 ## The arrangement of the catalogue
 
 Long after 1657, when Joannes Maire ceased to print and sell books, several variants of his well known device - a man spading in a landscape below the motto Fac et spera - continued to be used by other printers
-and booksellers. One of these variants, number
-223 in the present catalogue, was used by Maire in 1642 and 1652, and, again, in 1654 in a book printed for Lowijs Elzevier. It also adorned, however, the title pages of at least eight editions available from the shop of another printer and bookseller, Pieter van der Aa, in the years between 1686 and 1690. It was furthermore to be found on eight editions published by Frederik Haaring in the period 1688-1698. Moreover, between 1668 and 1697 the same variant would be linked to at least six other names as well: Johannes van Bilderbeeck, Anthony Schouten, Cornelis Driehuysen, Abraham Gogat, Jacobus Moukee, and Leonardus Strick. Although it could perhaps indeed be established who exactly owned this small wood block after 1657, we can safely predict that the history of its ownership will be a complicated one.
+and booksellers. 
+
+![Device number 223](/images/dpd_0223.jpg)  
+
+One of these variants, number 223 in the present catalogue, was used by Maire in 1642 and 1652, and, again, in 1654 in a book printed for Lowijs Elzevier. It also adorned, however, the title pages of at least eight editions available from the shop of another printer and bookseller, Pieter van der Aa, in the years between 1686 and 1690. It was furthermore to be found on eight editions published by Frederik Haaring in the period 1688-1698. Moreover, between 1668 and 1697 the same variant would be linked to at least six other names as well: Johannes van Bilderbeeck, Anthony Schouten, Cornelis Driehuysen, Abraham Gogat, Jacobus Moukee, and Leonardus Strick. Although it could perhaps indeed be established who exactly owned this small wood block after 1657, we can safely predict that the history of its ownership will be a complicated one.
 
 From the late sixteenth century onward a device showing a personification of the Christian, more specifically the Calvinist Religion, was used throughout Europe by many different protestant printers and booksellers. The northern Netherlands of the seventeenth century alone produced some twenty variants of this device, ultimately deriving from an illustrated poem and emblem by Theodore de Bèze. On title pages it would become combined with the names of at least twenty different printers and booksellers.
+
+![Device number 742](/images/dpd_0742.jpg)
 
 The oldest Dutch variant, our number 742, was used by Bruyn Harmensz Schinckel in 1593. Without its typeset motto, Religio Christiana, it could be found on several of Schinckel's editions dated between 1601 and 1603. After Schinckel, the block would be associated with Jacob Lenaertsz Meyn, Jan Jacobs Palensteyn, and, finally, in 1634, with Volchard Jansz Camerlingh. Another variant of the same device, our number 387, was first used by Gerrit Jansz Arensteyn in 1634. More than half a century later we still come across the same block: in 1697 Jacob Claus had it printed on the title page of his edition of the works of Hans Engelbrecht van Brunswijk. Whatever historiographical issues this chequered pattern of usage may suggest, it alerts us first of all to the editorial problem of arranging the material in the present catalogue. On the more than 16,000 title pages in our photocopy archives we have identified the prints of some 2,000 different blocks and plates. So, on average, every block was printed eight times. On average too, every block has been associated with at least two different printers or booksellers, leaving us with well over 4,000 instances of a block linked to a name or a combination of names.
 The association of devices with different names naturally poses some problems for a catalogue - like this one - that is arranged alphabetically according to the names of printers and booksellers, most essentially those of redundancy and attribution.
 
+![Device number 284](/images/dpd_0284.jpg)
+
 Even though a device may seem to begin its life as a personal invention, appearances can deceive due to lack of information, or due to historical coincidence.
 In Dordrecht, in 1622, the printer Dirck van Vreeswijck used for the first time the device number 284 which conceals a pun on his last name. The picture shows Joseph fleeing the wife of Potiphar. Its motto Quantum quisque timet, tantum fugit contains Latin words for both halves of Vreeswijck's name: timere can be translated in Dutch as vrezen (to fear), while fugere (to flee) can be translated in Dutch as wijken . However, already in 1621, and also in Dordrecht, this device had been used for van Haemstede's martyrology published by Joris Waters, Zacharias Jochimsz, and François Boels. To be sure, the appearance of the device in this publication could very well indicate that the actual printer was Dirck van Vreeswijck, but our prime source, the book at hand, is silent on this question.
+
+![Device number 453](/images/dpd_0453.jpg)
 
 How careful we must be when inferring the ownership of a device from internal evidence like an obvious pun on someone's name can be shown with many examples. An instructive one is that of device 453. If the
 only print we would have of this block came from a book
@@ -61,7 +70,7 @@ A feature of the textual descriptions intended to serve those who do not read Du
 
 _Iconography 2: Iconclass notations_
 
-This introduction is not a suitable place to explain at length what Iconclass is. An extensive explanation of the Iconclass system is to be found in the Iconclass topic of the CD-ROM's helpfile. Information is also made available online, on the (Iconclass website)[http://iconclass.org] at Utrecht university. Moreover, a substantial number of catalogues using Iconclass, both on paper and on CD-ROM, has been published during the last decade or so, exposing a wide audience to the system.
+This introduction is not a suitable place to explain at length what Iconclass is. An extensive explanation of the Iconclass system is to be found in the Iconclass topic of the CD-ROM's helpfile. Information is also made available online, on the [Iconclass website](http://iconclass.org). Moreover, a substantial number of catalogues using Iconclass, both on paper and on CD-ROM, has been published during the last decade or so, exposing a wide audience to the system.
 
 However, since vocabularies are generally used according to rules that are specific to a project, a few remarks are in place about the way we have applied Iconclass to the printer's devices. This holds even more strongly as the research of the Image & Word project has considerably affected our views on their iconography. In this project several types of sources - selected emblem books, printer's devices, occasional engravings, title pages, Erasmian texts - are digitized; their texts are transcribed and SGML-tagged; their iconography is indexed with Iconclass. As a result of this project, which has embedded our research on printer's devices for a decade now, we have gained a better grip on the contents of a number of important emblem books and of texts like Erasmus's Adagiorum Chiliades .
 
